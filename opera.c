@@ -18,12 +18,8 @@ int resta(int a, int b) {
 
 int multiplica(int a, int b) {
 
-	int i, res=a;
 
-	for(i=0; i < b; i++)
-		res += a;
-
-	return res;
+	return a*b;
 }
 
 
