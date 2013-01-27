@@ -16,6 +16,12 @@ int resta(int a, int b) {
 }
 
 
+int multiplica(int a, int b) {
+
+	return a*b;
+}
+
+
 int main(int argc, char const **argv) {
 	
 	int a=1, b=2, sum;
