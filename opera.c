@@ -23,6 +23,17 @@ int multiplica(int a, int b) {
 	return a*b;
 }
 
+/* Funcion de multiplicacion de una lista de n elementos. */
+int multiplicaLista(int *lista, int lenLista) {
+
+	int i, res=0;
+
+	for(i=0; i < lenLista; i++)
+		res *= lista[i];
+
+	return res;
+}
+
 
 int main(int argc, char const **argv) {
 	
