@@ -16,6 +16,7 @@ int resta(int a, int b) {
 }
 
 
+/* Funcion de multiplicacion */
 int multiplica(int a, int b) {
 
 
