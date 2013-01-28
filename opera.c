@@ -35,6 +35,18 @@ int multiplicaLista(int *lista, int lenLista) {
 }
 
 
+/* Funcion para sumar una lista de numeros. */
+int sumaLista(int *lista, int lenLista) {
+
+	int i,res=0;
+
+	for(i=0; i < lenLista; i++)
+		res += lista[i];
+
+	return res;
+}
+
+
 int main(int argc, char const **argv) {
 	
 	int a=1, b=2, sum;
