@@ -7,3 +7,5 @@ Esta línea la he añadido al hacer el primer commit con la rama 'test' recién 
 
 
 Retomo el repo para probar cosillas de git.
+
+Metemos una gran línea explicatoria
