@@ -11,3 +11,5 @@ Retomo el repo para probar cosillas de git.
 Metemos una gran línea explicatoria
 Esta línea se la vamos a meter al commit usando 'ammend'
 Super línea (esto se me olvidó).
+
+Todos de guasa, jijis y jojos haciendo cosas sin saber que el otro está currando.
